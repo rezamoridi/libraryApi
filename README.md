@@ -43,8 +43,8 @@
 ابتدا پروژه را روی سیستم خود کلون کنید:
 
 ```bash
-git clone https://github.com/your-username/online-library.git
-cd online-library
+git clone https://github.com/your-username/libraryApi.git
+cd libraryApi
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
