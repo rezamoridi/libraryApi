@@ -1,11 +1,11 @@
 # ❗ TODO : import BaseModel from pydantic to create schemas
-
+from pydantic import BaseModel, EmailStr
 
 # ❗ TODO : Create a schema for response model in user registration endpoin
 # - schema class should have these attributes
 # - username, email, password 
 # - use it as Request Body to get user credentials for registration
-class BaseUser():
+class BaseUser(BaseModel):
     pass
 
 
@@ -15,3 +15,4 @@ class BaseUser():
 # - it must inherit existing attributes from BaseUser
 class User():
     pass
+

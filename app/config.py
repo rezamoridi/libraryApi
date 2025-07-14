@@ -5,6 +5,7 @@
 # ❗ TODO: Create your Fastapi app here
 
 
+
 # ❗ TODO: Create all tables using SQLAlchemy (bind metadata to engine)
 
 
@@ -12,8 +13,9 @@
 """@app.get()
 def welcome() -> str:
     # ✅ Return a welcome message
-    return "TODO: return welcome message"
+    return "welcome"
 """
+
 
 
 # ❗ TODO : Compelete the user registration endpoint with correct HTTP method
