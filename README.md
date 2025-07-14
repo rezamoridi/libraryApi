@@ -62,7 +62,11 @@ type.null> .env
 ```
 
 ### 🧾 5. راه اندازی پروژه
+لینوکس
 ```bash
 python app/main.py
 ```
-
+ویندوز
+```bash
+python app\main.py
+```
