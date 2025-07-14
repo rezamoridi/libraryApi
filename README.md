@@ -45,7 +45,7 @@
 ابتدا پروژه را روی سیستم خود کلون کنید:
 
 ```bash
-git clone https://github.com/your-username/libraryApi.git
+git clone https://github.com/rezamoridi/libraryApi.git
 cd libraryApi
 ```
 
